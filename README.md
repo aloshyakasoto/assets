@@ -1,7 +1,6 @@
 # Public Assets of Aloshy's Projects
 ## Usage
 - Click on the desired file above
-- On the file's page, click on the menu button (3 dots) at the top-right corner
-- Click on `Copy Permalink` option
-- The Permanent URL shall be copied to the clipboard
+- On the file's page, right-click on the image and open it it new tab
+- Copy the link from the new tab's addressbar
 - Paste it wherever required
