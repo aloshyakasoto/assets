@@ -1,3 +1,7 @@
 # Public Assets of Aloshy's Projects
 ## Usage
-Copy the raw Github URL of the required file. It shall be public forever.
+- Click on the desired file above
+- On the file's page, click on the menu button (3 dots)
+- Click on `Copy Permalink` option
+- The Permanent URL shall be copied to the clipboard
+- Paste it wherever required
